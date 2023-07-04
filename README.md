@@ -1,9 +1,5 @@
 ![Header](https://github.com/Dmitriiplastinin-1231/dmitriiplastinin-1231/blob/main/assets/Header.png)
 
-
-## Hi. I'm a react frontend developer:> 
-[WARNING, bad english] Little about me: i'm 16(2022-2023), studying in class 10. My hobby is programming and hope in the future it will become my job. I started by python, but at some point, i began not to understand where to go next. And the solution to the problem was the study of the frontend: first html and css and scss, then javascript and react. Have a poor command of English. I started learning it this year (know about 400 words and don't know grammar).
-
 ### Languages and Tools:
 ![html](https://img.shields.io/badge/html-282c35?style=for-the-badge&logo=html5)
 ![css](https://img.shields.io/badge/css-282c35?style=for-the-badge&logo=css3&logoColor=2862e9)
