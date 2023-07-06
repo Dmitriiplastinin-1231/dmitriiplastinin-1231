@@ -1,4 +1,4 @@
-![Header](https://github.com/Dmitriiplastinin-1231/dmitriiplastinin-1231/blob/main/assets/Header.png)
+
 
 ### Languages and Tools:
 ![html](https://img.shields.io/badge/html-282c35?style=for-the-badge&logo=html5)
